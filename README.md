@@ -8,3 +8,5 @@ Based in:
 
 <strong>Link to the repository</strong><br />
 <a href="https://github.com/maxhodak/keras-molecules">github</a>
+
+Minor adaptations for filtered chembl data.
